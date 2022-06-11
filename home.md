@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-06-11T16:17:34.726Z
+date: 2022-06-11T16:25:28.262Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -63,8 +63,6 @@ dateCreated: 2022-06-11T15:55:35.151Z
 
 ## Dolci
 
-- [Pan di Spagna](dolci/pan_di_spagna)
-- [Pan di Spagna al cioccolato](dolci/pan_di_spagna_cioccolato)
 - [Sachertorte](dolci/sachertorte)
 - [Schwarzwälder Kirschtorte](dolci/schwarzwalder_kirschtorte)
 - [Tiramisù](dolci/tiramisu)
@@ -93,6 +91,8 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Crema diplomatica](base/crema_diplomatica)
 - [Crema pasticciera](base/crema_pasticciera)
 - [Crêpe](base/crepe)
+- [Pan di Spagna](base/pan_di_spagna)
+- [Pan di Spagna al cioccolato](base/pan_di_spagna_cioccolato)
 - [Pasta frolla](base/pasta_frolla)
 - [Tahina](base/tahina)
 

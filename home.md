@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-06-11T16:25:28.262Z
+date: 2022-06-11T16:28:02.863Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -64,7 +64,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 ## Dolci
 
 - [Sachertorte](dolci/sachertorte)
-- [Schwarzwälder Kirschtorte](dolci/schwarzwalder_kirschtorte)
+- [Schwarzwälder Kirschtorte (Torta di ciliegie della Foresta Nera)](dolci/schwarzwalder_kirschtorte)
 - [Tiramisù](dolci/tiramisu)
 - [Torta di mandorle](dolci/torta_mandorle)
 

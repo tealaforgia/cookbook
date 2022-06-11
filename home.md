@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-06-11T16:39:51.984Z
+date: 2022-06-11T16:49:03.390Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -94,7 +94,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Pan di Spagna](base/pan_di_spagna)
 - [Pan di Spagna al cioccolato](base/pan_di_spagna_cioccolato)
 - [Pasta frolla](base/pasta_frolla)
-- [Tahina](base/tahina)
+- [Tahina [طحينة‎]](base/tahina)
 
 ## Liquori
 

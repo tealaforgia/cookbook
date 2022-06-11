@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-06-11T15:56:03.659Z
+date: 2022-06-11T16:17:34.726Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -46,7 +46,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 
 ## Piatti unici
 
-- [Moussakà](unici/moussaka)
+- [Moussakà [Μουσακάς]](unici/moussaka)
 - [Parmigiana di melanzane](unici/parmigiana)
 - [Vellutata di funghi](unici/vallutata_funghi)
 - [Vellutata di zucca](unici/vallutata_zucca)

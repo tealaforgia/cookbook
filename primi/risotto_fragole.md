@@ -2,7 +2,7 @@
 title: Risotto di fragole
 description: 
 published: true
-date: 2022-06-11T16:05:48.430Z
+date: 2022-06-12T10:48:39.070Z
 tags: primi, riso, fragole, parmigiano, panna, spumante, aceto balsamico, brodo vegetale
 editor: markdown
 dateCreated: 2022-06-11T16:05:48.430Z
@@ -10,7 +10,7 @@ dateCreated: 2022-06-11T16:05:48.430Z
 
 ## Ingredienti
 
-* [ ] `························` | [Brodo vegetale](/base/brodo_vegetale)
+* [ ] `························` | [Brodo vegetale](../base/brodo_vegetale)
 * [ ] `························` | Riso carnaioli
 * [ ] `························` | Fragole
 * [ ] `························` | Cipolla

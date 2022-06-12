@@ -2,7 +2,7 @@
 title: Paccheri con melanzane e 'Nduja
 description: 
 published: true
-date: 2022-06-12T13:30:42.588Z
+date: 2022-06-12T13:31:10.066Z
 tags: primi, pasta, pomodori, parmigiano, melanzana, 'nduja
 editor: markdown
 dateCreated: 2022-06-12T13:30:42.588Z
@@ -21,7 +21,6 @@ dateCreated: 2022-06-12T13:30:42.588Z
 * [ ] `························` | Oldio di oliva
 * [ ] `························` | Sale
 * [ ] `························` | Pepe
-* [ ] `························` | <span style="color: #98AFC7">Ingrediente opzionale</span>
 
 ## Preparazione
 

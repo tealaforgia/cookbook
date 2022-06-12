@@ -2,7 +2,7 @@
 title: Spaghetti alla 'Nduja
 description: 
 published: true
-date: 2022-06-12T13:24:27.999Z
+date: 2022-06-12T13:33:31.404Z
 tags: primi, pasta, pomodori, 'nduja, ricotta salata
 editor: markdown
 dateCreated: 2022-06-12T13:07:02.479Z
@@ -25,3 +25,4 @@ dateCreated: 2022-06-12T13:07:02.479Z
 * Aggiungere i pomodorini al soffritto e aggiungere un pizzico di sale.
 * Aggiungere la 'Nduja e far cuociere col coperchio mescolando di tanto in tanto per far sciogliere la 'Nduja.
 * Aggiungere un mestolo di acqua della pasta, quindi scolare la pasta molto al dente e terminare la cottura in padella. Se necessario aggiungere altra acqua della pasta.
+* Inpiattare  e grattuggiare un po' di ricotta salata 

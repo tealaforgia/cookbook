@@ -2,7 +2,7 @@
 title: Baba Ghanoush [بابا غنوج] e Mutabbal [المتبل]
 description: 
 published: true
-date: 2022-06-11T16:36:52.616Z
+date: 2022-06-12T10:49:14.675Z
 tags: pomodori, melanzana, limone, cipolla, salse, tahina, aglio, peperone, noci, melagrana, yogurt, labneh, paprika, sommacco siciliano, sesamo
 editor: markdown
 dateCreated: 2022-06-11T16:36:52.616Z
@@ -13,7 +13,7 @@ dateCreated: 2022-06-11T16:36:52.616Z
 ### Base
 
 * [ ] `3·······················` | Melanzane lunghe (Melanzane)
-* [ ] `50g·····················` | [Tahina](/base/tahina)
+* [ ] `50g·····················` | [Tahina](../base/tahina)
 * [ ] `2 spicchi···············` | Aglio
 * [ ] `························` | Succo di limone
 * [ ] `························` | Olio di oliva

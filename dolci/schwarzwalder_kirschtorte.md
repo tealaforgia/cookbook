@@ -2,7 +2,7 @@
 title: Schwarzwälder Kirschtorte (Torta di ciliegie della Foresta Nera)
 description: 
 published: true
-date: 2022-06-11T16:30:48.040Z
+date: 2022-06-12T10:44:51.501Z
 tags: pan di spagna, cioccolato, dolci, torta, ciliegie, crema chantilly
 editor: markdown
 dateCreated: 2022-06-11T16:30:48.040Z
@@ -10,7 +10,7 @@ dateCreated: 2022-06-11T16:30:48.040Z
 
 ## Ingredienti
 
-* [ ] `1·······················` | [Pan di Spagna al cioccolato](/dolci/pan_di_spagna_cioccolato)
+* [ ] `1·······················` | [Pan di Spagna al cioccolato](/base/pan_di_spagna_cioccolato)
 * [ ] `1 bicchierino···········` | Kirsch (Rum)
 * [ ] `1kg·····················` | Ciliegie denocciolate
 * [ ] `100g····················` | Zucchero

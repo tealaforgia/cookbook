@@ -1,8 +1,8 @@
 ---
 title: Sintassi
 description: 
-published: true
-date: 2022-06-11T17:03:27.712Z
+published: false
+date: 2022-06-12T12:20:37.160Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T17:03:27.712Z

@@ -2,7 +2,7 @@
 title: Crema diplomatica
 description: 
 published: true
-date: 2022-06-11T16:47:00.282Z
+date: 2022-06-12T10:51:08.817Z
 tags: preparazioni di base, crema chantilly, crema diplomatica, crema pasticciera
 editor: markdown
 dateCreated: 2022-06-11T16:47:00.282Z
@@ -10,8 +10,8 @@ dateCreated: 2022-06-11T16:47:00.282Z
 
 ## Ingredienti
 
-* [ ] `300g [≈3→Uova]··········` | [Crema pasticciera](/base/crema_pasticciera) [con gelatina se verrà usata per farcire torte o crostate]
-* [ ] `300g····················` | [Crema Chantilly](/base/crema_chantilly)
+* [ ] `300g [≈3→Uova]··········` | [Crema pasticciera](../base/crema_pasticciera) [con gelatina se verrà usata per farcire torte o crostate]
+* [ ] `300g····················` | [Crema Chantilly](../base/crema_chantilly)
 
 <details><summary>Proporzioni</summary>
 

@@ -2,7 +2,7 @@
 title: Spaghetti alla 'Nduja
 description: 
 published: true
-date: 2022-06-12T13:07:02.479Z
+date: 2022-06-12T13:24:27.999Z
 tags: primi, pasta, pomodori, 'nduja, ricotta salata
 editor: markdown
 dateCreated: 2022-06-12T13:07:02.479Z
@@ -12,7 +12,7 @@ dateCreated: 2022-06-12T13:07:02.479Z
 
 * [ ] `························` | Spaghetti
 * [ ] `························` | Nduja
-* [ ] `························` | Pomodori (Pelati)
+* [ ] `························` | Pomodori (Pomodori pelati)
 * [ ] `························` | Cipolla rossa (Cipolla)
 * [ ] `························` | Ricotta salata
 * [ ] `························` | Olio di olive

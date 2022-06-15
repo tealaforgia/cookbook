@@ -2,7 +2,7 @@
 title: Pan di spagna al cioccolato
 description: 
 published: true
-date: 2022-06-11T16:27:14.514Z
+date: 2022-06-15T13:35:59.879Z
 tags: preparazioni di base, pan di spagna, cioccolato
 editor: markdown
 dateCreated: 2022-06-11T16:27:14.514Z
@@ -35,7 +35,7 @@ dateCreated: 2022-06-11T16:27:14.514Z
 
 * Setacciare insieme la farina e il cacao per miscelarle.
 * Montare alla massima velocità le uova intere con lo zucchero, l'essenza di vaniglia, la scorza di limone e un pizzico di sale per `20min`.
-* Aggiungere `1/2` del moscuglio di farina e mescolare molto delicatamente con la spatola. Aggiungere quindi `1/2` del rimanente miscuglio e mescolare, e infine tutto il miscuglio restante, mescolando sempre molto delicatamente.
+* Aggiungere `1/2` del miscuglio di farina e cioccolato e mescolare molto delicatamente con la spatola. Aggiungere quindi `1/2` del rimanente miscuglio e mescolare, e infine tutto il miscuglio restante, mescolando sempre molto delicatamente.
 * Versare in una teglia imburrata e infarinata.
 
 ## Cottura

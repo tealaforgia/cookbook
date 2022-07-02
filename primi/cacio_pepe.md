@@ -2,8 +2,8 @@
 title: Cacio e pepe
 description: 
 published: true
-date: 2022-07-02T15:29:38.872Z
-tags: pecorino, pepe
+date: 2022-07-02T15:30:10.649Z
+tags: primi, pecorino, pepe
 editor: markdown
 dateCreated: 2022-07-02T15:29:38.872Z
 ---

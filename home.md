@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-08-04T22:56:41.880Z
+date: 2022-08-04T22:57:34.538Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -44,7 +44,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Pesce spada alla siciliana](secondi/perse_spada_siciliana)
 - [Polpo alla griglia con patate](secondi/polpo_griglia_patate)
 - [Salmone all'aneto](secondi/salmone_aneto)
-- [Salmone scottato in crosta di sesamo e Tartare di salmone al Tabasco](salmone_scottato_crosta_sesamo_tartare_salmone_tabasco)
+- [Salmone scottato in crosta di sesamo e Tartare di salmone al Tabasco](secondi/salmone_scottato_crosta_sesamo_tartare_salmone_tabasco)
 - [Seppie gratinate](secondi/seppie_gratinate)
 - [Sgombro al cartoccio](secondi/sgombro_cartoccio)
 
@@ -57,7 +57,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 
 ## Contorni
 
-- [Patate al forno](primi/patate_forno)
+- [Patate al forno](contorni/patate_forno)
 - [Peperonata](contorni/peperonata)
 
 ## Panini
@@ -74,7 +74,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 
 ## Lievitati
 
-- [Focaccia barese](fcaccia_barese)
+- [Focaccia barese](lievitati/fcaccia_barese)
 - [Impasto per pizza](lievitati/impasto_pizza)
 - [Panettone](lievitati/panettone)
 - [Sandwich](lievitati/sandwich)

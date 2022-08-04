@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-08-04T22:08:57.212Z
+date: 2022-08-04T22:28:09.378Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -27,7 +27,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Spaghetti alla 'Nduja](primi/spaghetti_nduja)
 - [Spaghetti alla Carrettiera](primi/spaghetti_carrettiera)
 - [Spaghetti alla Nerano](primi/spaghetti_nerano)
-- [Spaghetti con cicale](spaghetti_cicale)
+- [Spaghetti con cicale](primi/spaghetti_cicale)
 - [Spaghetti con vongole e gamberi](primi/spaghetti_vongole_gamberi)
 - [Spaghetti risottati agli scampi](primi/spaghetti_risottati_scampi)
 - [Tagliatelle al Salmone](primi/tagliatelle_salmone)

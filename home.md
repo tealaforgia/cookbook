@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-08-04T23:51:52.727Z
+date: 2022-08-04T23:53:17.952Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -58,6 +58,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 
 ## Contorni
 
+- [Ciambotta](contorni/ciambotta)
 - [Patate al forno](contorni/patate_forno)
 - [Peperonata](contorni/peperonata)
 

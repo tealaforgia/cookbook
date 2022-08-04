@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-08-04T21:19:18.893Z
+date: 2022-08-04T21:49:30.251Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -22,7 +22,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Pasta con tonno e melanzane](primi/pasta_tonno_melanzane)
 - [Reginette con salsiccia, funghi e panna alla Norcina](primi/reginette_salsiccia_funghi_panna_norcina)
 - [Risotto di fragole](primi/risotto_fragole)
-- [Riso, patate e cozze](primi/riso_patate_cozze)
+- [Patate, riso e cozze](primi/patate_riso_cozze)
 - [Spaghetti alla 'Nduja](primi/spaghetti_nduja)
 - [Spaghetti alla Carrettiera](primi/spaghetti_carrettiera)
 - [Spaghetti alla Nerano](primi/spaghetti_nerano)

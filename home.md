@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-08-04T22:57:34.538Z
+date: 2022-08-04T23:51:52.727Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -36,6 +36,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 
 - [Alici al forno](secondi/alici_forno)
 - [Alici con patate al forno](secondi/alici_patate_forno)
+- [Caponata](secondi/caponata)
 - [Filetto al pepe verde](secondi/filetto_pepe_verde)
 - [Insalata di baccalà con olive](secondi/insalata_baccala_olive)
 - [Insalata di polpo alla Ligure](secondi/insalata_polpo_ligure)

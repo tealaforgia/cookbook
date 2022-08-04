@@ -2,7 +2,7 @@
 title: Amatriciana
 description: 
 published: true
-date: 2022-06-11T16:00:22.420Z
+date: 2022-08-04T16:40:48.557Z
 tags: primi, pasta, guanciale, pecorino, pomodori, peperoncino
 editor: markdown
 dateCreated: 2022-06-11T16:00:22.420Z
@@ -16,14 +16,15 @@ dateCreated: 2022-06-11T16:00:22.420Z
 * [ ] `························` | Pomodori pelati (Salsa di pomodoro)
 * [ ] `························` | <span style="color: #98AFC7">Olio di oliva</span>
 * [ ] `························` | Peperoncino fresco
-* [ ] `························` | <span style="color: #98AFC7">Vino bianco</span>
+* [ ] `························` | Vino bianco
 * [ ] `························` | Sale grosso
-* [ ] `························` | Pepe nero
 
 ## Preparazione
 
-* <span style="color: #98AFC7">Mettere un filo d'olio in una padella</span> e far rosolare il guanciale con il peperoncino.
-* Quando il guanciale sarà diventato croccante il giusto <span style="color: #98AFC7">sfumare con poco vino</span> e aggiungere i pelati, quindi abbassare la fiamma e lasciare cuocere per 15-20min con un coperchio.
-* Buttare la pasta a cuocere nell'acqua salata e scolarla molto al dente nel sugo.
+* <span style="color: #98AFC7">Mettere qualche goccia d'olio in una padella</span> e far rosolare il guanciale e il peperoncino.
+* Quando il guanciale sarà diventato croccante il giusto sfumare con il vino, togliere il guanciale e aggiungere i pelati privati dei semi e tagliati grossolanamente, quindi abbassare la fiamma e lasciare cuocere per `≈15min` con il coperchio.
+* Rimettere il guanciale in padella, buttare la pasta nell'acqua leggermente salata e scolarla molto al dente nel sugo.
 * Saltarla in padella fino ad ultimare la cottura, se necessario aggiungere un po' di acqua della pasta, spegnere il fuoco e condire con il pecorino.
-* Servire con una spolverata di pepe e altro pecorino.
+* Servire con altro pecorino.
+
+![amatriciana.jpg](/ricette/amatriciana.jpg)

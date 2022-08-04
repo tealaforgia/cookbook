@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-08-04T22:28:09.378Z
+date: 2022-08-04T22:56:41.880Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -38,7 +38,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Alici con patate al forno](secondi/alici_patate_forno)
 - [Filetto al pepe verde](secondi/filetto_pepe_verde)
 - [Insalata di baccalà con olive](secondi/insalata_baccala_olive)
-- [Insalata di polpo alla Ligure](insalata_polpo_ligure)
+- [Insalata di polpo alla Ligure](secondi/insalata_polpo_ligure)
 - [Melanzane Gratinate al Forno](secondi/melanzane_gratinate_forno)
 - [Orata al cartoccio](secondi/orata_cartoccio)
 - [Pesce spada alla siciliana](secondi/perse_spada_siciliana)

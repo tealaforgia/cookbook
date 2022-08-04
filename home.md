@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-06-12T14:06:34.962Z
+date: 2022-08-04T21:19:18.893Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -18,7 +18,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Pasta alla Norma](primi/pasta_norma)
 - [Pasta con asparagi e pancetta](primi/pasta_asparagi_pancetta)
 - [Pasta con carciofi, funghi e patate](primi/pasta_carciofi_funghi_patate)
-- [Pasta con fave e fecorino](primi/pasta_fave_pecorino)
+- [Pasta con fave e pecorino](primi/pasta_fave_pecorino)
 - [Pasta con tonno e melanzane](primi/pasta_tonno_melanzane)
 - [Reginette con salsiccia, funghi e panna alla Norcina](primi/reginette_salsiccia_funghi_panna_norcina)
 - [Risotto di fragole](primi/risotto_fragole)

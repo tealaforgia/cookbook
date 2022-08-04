@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-08-04T22:01:14.978Z
+date: 2022-08-04T22:08:57.212Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -14,7 +14,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Cacio e pepe](primi/cacio_pepe)
 - [Calamarata con cozze, melanzane e pecorino](primi/calamarata_cozze_melanzane_pecorino)
 - [Carbonara](primi/carbonara)
-- [Linguine con cicale e vongole](linguine_cicale_vongole)
+- [Linguine con cicale e vongole](primi/linguine_cicale_vongole)
 - [Paccheri con melanzane e 'Nduja](primi/paccheri_melanzane_nduja)
 - [Pasta alla Norma](primi/pasta_norma)
 - [Pasta con asparagi e pancetta](primi/pasta_asparagi_pancetta)

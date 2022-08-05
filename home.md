@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-08-04T23:53:17.952Z
+date: 2022-08-05T12:03:39.355Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -43,6 +43,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Melanzane Gratinate al Forno](secondi/melanzane_gratinate_forno)
 - [Orata al cartoccio](secondi/orata_cartoccio)
 - [Pesce spada alla siciliana](secondi/perse_spada_siciliana)
+- [Pizzaiola](secondi/pizzaiola)
 - [Polpo alla griglia con patate](secondi/polpo_griglia_patate)
 - [Salmone all'aneto](secondi/salmone_aneto)
 - [Salmone scottato in crosta di sesamo e Tartare di salmone al Tabasco](secondi/salmone_scottato_crosta_sesamo_tartare_salmone_tabasco)

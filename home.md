@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-08-05T12:03:39.355Z
+date: 2022-10-09T08:24:46.231Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z

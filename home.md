@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-12-28T00:40:58.045Z
+date: 2022-12-28T19:15:34.623Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -14,6 +14,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Cacio e pepe](primi/cacio_pepe)
 - [Calamarata con cozze, melanzane e pecorino](primi/calamarata_cozze_melanzane_pecorino)
 - [Carbonara](primi/carbonara)
+- [Cicerchia alla pignata](primi/cicerchia_pignata)
 - [Linguine con cicale e vongole](primi/linguine_cicale_vongole)
 - [Paccheri con melanzane e 'Nduja](primi/paccheri_melanzane_nduja)
 - [Pasta alla Norma](primi/pasta_norma)
@@ -37,6 +38,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Alici al forno](secondi/alici_forno)
 - [Alici con patate al forno](secondi/alici_patate_forno)
 - [Caponata](secondi/caponata)
+- [Falafel [فلافل]](secondi/falafel)
 - [Filetto al pepe verde](secondi/filetto_pepe_verde)
 - [Insalata di baccalà con olive](secondi/insalata_baccala_olive)
 - [Insalata di polpo alla Ligure](secondi/insalata_polpo_ligure)

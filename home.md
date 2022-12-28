@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-12-28T00:35:03.795Z
+date: 2022-12-28T00:40:58.045Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -85,6 +85,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 ## Salse
 
 - [Baba Ghanoush [بابا غنوج] e Mutabbal [المتبل]](salse/baba_ghanoush_mutabbal)
+- [Genovese](salse/genovese)
 - [Guacamole](salse/guacamole)
 - [Hummus [حمص بطحينة]](salse/hummus)
 - [Pesto](salse/pesto)

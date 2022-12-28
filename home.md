@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-10-09T08:24:46.231Z
+date: 2022-12-28T00:35:03.795Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -78,7 +78,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 ## Lievitati
 
 - [Focaccia barese](lievitati/fcaccia_barese)
-- [Impasto per pizza](lievitati/impasto_pizza)
+- [Pizza](lievitati/pizza)
 - [Panettone](lievitati/panettone)
 - [Sandwich](lievitati/sandwich)
 

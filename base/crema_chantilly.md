@@ -2,7 +2,7 @@
 title: Crema Chantilly
 description: 
 published: true
-date: 2022-06-11T16:46:13.395Z
+date: 2023-02-21T19:00:56.862Z
 tags: panna, preparazioni di base, crema chantilly
 editor: markdown
 dateCreated: 2022-06-11T16:46:13.395Z
@@ -18,7 +18,7 @@ dateCreated: 2022-06-11T16:46:13.395Z
 
 <details><summary>Proporzioni</summary>
 
-**Panna** (`L`) = `n`
+**Panna** (`kg`) = `n`
 
 * [ ] `n÷20····················` | Zucchero a velo
 

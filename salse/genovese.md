@@ -2,7 +2,7 @@
 title: Genovese
 description: 
 published: true
-date: 2023-10-31T14:07:18.133Z
+date: 2023-10-31T16:53:25.454Z
 tags: cipolla, salse, carne, sugo
 editor: markdown
 dateCreated: 2023-10-31T14:07:18.133Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-31T14:07:18.133Z
 ## Ingredienti
 
 * [ ] `≈500g···················` | Carne di manzo come reale e coperta di costata
-* [ ] `≈2kg····················` | Cipolla ramata di Montoro (Cipolla ramata)
+* [ ] `≈1.5-2kg················` | Cipolla ramata di Montoro (Cipolla ramata)
 * [ ] `························` | Sedano
 * [ ] `························` | Carota
 * [ ] `························` | Vino bianco

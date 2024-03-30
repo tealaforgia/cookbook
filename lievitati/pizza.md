@@ -2,7 +2,7 @@
 title: Pizza
 description: 
 published: true
-date: 2022-12-28T00:34:58.892Z
+date: 2024-03-30T16:44:57.771Z
 tags: lievitati, pizza
 editor: markdown
 dateCreated: 2022-12-28T00:34:58.892Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-28T00:34:58.892Z
 
 ## Ingredienti
 
-> Per `6` pizze da `≈270-280g`
+> Per `6` pizze da `≈280g`
 
 * [ ] `1000g···················` | Farina Tipo 0 W270/300
 * [ ] `700g····················` | Acqua

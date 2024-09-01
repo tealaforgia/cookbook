@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2022-12-28T19:15:34.623Z
+date: 2024-09-01T16:32:18.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -23,6 +23,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Pasta con fave e pecorino](primi/pasta_fave_pecorino)
 - [Pasta con tonno e melanzane](primi/pasta_tonno_melanzane)
 - [Reginette con salsiccia, funghi e panna alla Norcina](primi/reginette_salsiccia_funghi_panna_norcina)
+- [Risotto ai funghi porcini](primi/risotto_porcini)
 - [Risotto di fragole](primi/risotto_fragole)
 - [Patate, riso e cozze](primi/patate_riso_cozze)
 - [Spaghetti alla 'Nduja](primi/spaghetti_nduja)

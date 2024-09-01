@@ -2,7 +2,7 @@
 title: Risotto ai funghi porcini
 description: 
 published: true
-date: 2024-09-01T17:09:34.392Z
+date: 2024-09-01T17:12:31.694Z
 tags: primi, riso, parmigiano, brodo vegetale, porcini, funghi
 editor: markdown
 dateCreated: 2024-09-01T17:09:34.392Z
@@ -33,3 +33,5 @@ dateCreated: 2024-09-01T17:09:34.392Z
 * Aggiungere i porcini trifolati, i porcini secchi e la loro acqua. Continuare a cuocere il risotto con il brodo.
 * Quando il riso è al dente spegnere il fuoco e mantecare con il burro. Far raffreddare qualche minuti e aggiungere il parmigiano grattuggiato e un rametto di timo spezzettato.
 * Impiattare con un rametto di timo.
+
+![risotto_porcini.jpg](/ricette/risotto_porcini.jpg)

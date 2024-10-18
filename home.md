@@ -2,7 +2,7 @@
 title: Ricettario
 description: 
 published: true
-date: 2024-09-01T16:32:18.792Z
+date: 2024-10-18T14:45:41.063Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T15:55:35.151Z
@@ -22,6 +22,7 @@ dateCreated: 2022-06-11T15:55:35.151Z
 - [Pasta con carciofi, funghi e patate](primi/pasta_carciofi_funghi_patate)
 - [Pasta con fave e pecorino](primi/pasta_fave_pecorino)
 - [Pasta con tonno e melanzane](primi/pasta_tonno_melanzane)
+- [Pasta e fagioli](primi/pasta_fagioli)
 - [Reginette con salsiccia, funghi e panna alla Norcina](primi/reginette_salsiccia_funghi_panna_norcina)
 - [Risotto ai funghi porcini](primi/risotto_porcini)
 - [Risotto di fragole](primi/risotto_fragole)

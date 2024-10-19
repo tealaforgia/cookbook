@@ -2,7 +2,7 @@
 title: Pasta e fagioli
 description: 
 published: true
-date: 2024-10-19T09:50:27.882Z
+date: 2024-10-19T09:54:13.808Z
 tags: pasta, pancetta, fagioli
 editor: markdown
 dateCreated: 2024-10-18T14:32:37.764Z
@@ -44,7 +44,7 @@ dateCreated: 2024-10-18T14:32:37.764Z
 
 ### Ricetta
 
-* Cuocere i fagioli, precedentemente ammollati per `≈8h`, in acqua per circa `≈2min`.
+* Cuocere i fagioli, precedentemente ammollati per `≈8h`, in acqua per circa `≈1.5h`.
 * In una pentola fare il soffritto con abbondante olio di oliva, lardo, pancetta a listarelle piccole, aglio, cipolla, carota e sedano.
 * Al soffrotto aggiungere i fagioli, la patata tagliata in 4, il rosmarino, la salvia, l'alloro e l'acqua di cottura dei fagioli a coprire. Cuocere a fuoco lento per `≈45min`
 * Frullare `1/3` dei fagioli e le patate, quindi rimettere la crema nella pentola.

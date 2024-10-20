@@ -2,7 +2,7 @@
 title: Genovese
 description: 
 published: true
-date: 2024-10-16T17:24:24.407Z
+date: 2024-10-20T14:13:59.198Z
 tags: cipolla, salse, carne, sugo
 editor: markdown
 dateCreated: 2023-10-31T14:07:18.133Z
@@ -34,3 +34,5 @@ dateCreated: 2023-10-31T14:07:18.133Z
 * In una padella non antiaderente far scottare la carne da tutti i lati per far avvenire la reazione di Maillard.
 * Quando le cipolle inizieranno ad inbrunirsi, aggiungere la carne, aspettare `≈10min` e iniziare ad aggiungere un po' di vino.
 * Rimettere il coperchio e far cuocere finché il liquido non sarà esaurito controllando di tanto in tanto, quindi deglassare con il vino. Ripetere questo passaggio per almeno `3h`, quando il sugo si sarà inbrunito.
+
+![genovese.jpg](/ricette/genovese.jpg)

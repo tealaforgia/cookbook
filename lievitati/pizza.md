@@ -2,7 +2,7 @@
 title: Pizza
 description: 
 published: true
-date: 2024-03-30T16:44:57.771Z
+date: 2025-01-09T09:50:36.265Z
 tags: lievitati, pizza
 editor: markdown
 dateCreated: 2022-12-28T00:34:58.892Z
@@ -33,11 +33,11 @@ dateCreated: 2022-12-28T00:34:58.892Z
 
 ## Preparazione
 
-* Versare nella planetaria acqua per raggiungere il `65%` di idratazione, il lievito e il sale, quindi miscelare con la foglia.
-* Aggiungere la farina setacciata poco alla volta fino a che non si riesce più ad impastare con la foglia, quindi sostituirla con il gancio mettere tutta la farina e far incordare bene l'impasto.
-* Aggiungere la restante acqua e far incordare l'impasto.
-* Dare qualche piega all'impasto, e lasciarlo riposare, ricoperto da un velo d'olio, per `≈1-4h` a temperatura ambiente e `≈16h` in frigo.
-* Uscire l'impasto dal frigo, lasciarlo riposare finche sarà ben lievitato, e procedere allo staglio dei panetti. Pirlare i panetti e lasciarli riposare ricoperti da un velo di olio per `≈4h`, finché non saranno lievitati.
+* Versare nella planetaria acqua per raggiungere il `65%` di idratazione, il lievito e il sale, quindi miscelare.
+* Aggiungere tutta la farina e impastare per far incordare bene l'impasto.
+* Aggiungere la restante acqua.
+* Dare qualche piega all'impasto, e lasciarlo riposare, ricoperto da un velo d'olio, per `≈1h` a temperatura ambiente e `≈16h` in frigo.
+* Uscire l'impasto dal frigo, lasciarlo riposare finche sarà ben lievitato, e procedere allo staglio dei panetti. Pirlare i panetti e lasciarli riposare `≈4h`, finché non saranno lievitati.
 * Stendere i panetti sulla semola, rimuovere la semola in eccesso e condirli.
 
 ## Cottura

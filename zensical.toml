@@ -1,0 +1,137 @@
+[project]
+site_name = "Ricettario - Tea La Forgia"
+site_url = "https://cookbook.laforgia.xyz"
+site_author = "Tea La Forgia"
+repo_name = "tealaforgia/cookbook"
+repo_url = "https://github.com/tealaforgia/cookbook"
+copyright = 'Fatto con <span class="twemoji heart"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 20.408c-.492.308-.903.546-1.192.709q-.23.129-.463.252h-.002a.75.75 0 0 1-.686 0 17 17 0 0 1-.465-.252 31 31 0 0 1-4.803-3.34C3.8 15.572 1 12.331 1 8.513 1 5.052 3.829 2.5 6.736 2.5 9.03 2.5 10.881 3.726 12 5.605 13.12 3.726 14.97 2.5 17.264 2.5 20.17 2.5 23 5.052 23 8.514c0 3.818-2.801 7.06-5.389 9.262A31 31 0 0 1 14 20.408"></path></svg></span> (e qualche bestemmia) da 🏳️‍🌈 Tea La Forgia 🏳️‍⚧️ <br> Copyright © Tea La Forgia ― Il contenuto è disponibile sotto la Licenza di Attribuzione Creative Commons-Non commerciale-Condividi allo stesso modo <br> <a href="https://www.laforgia.xyz/informativa-privacy/">Privacy e Cookie</a>'
+extra_css = [
+    "assets/stylesheets/extra.css",
+    "assets/stylesheets/fonts.css"
+]
+extra_javascript = [
+    "assets/javascripts/sw-register.js",
+    "assets/javascripts/sw-helper.js"
+]
+
+[project.theme]
+variant = "modern"
+font = false
+language = "it"
+logo = "assets/images/logo.png"
+favicon = "assets/images/favicon.png"
+custom_dir = "overrides"
+
+features = [
+    "navigation.instant",
+    "navigation.instant.progress",
+    "navigation.tracking",
+    "navigation.expand",
+    "navigation.path",
+    "navigation.indexes",
+    "navigation.top",
+    "navigation.footer",
+    "toc.follow",
+    "announce.dismiss",
+    "content.code.copy",
+    "content.code.annotate",
+    "content.action.view"
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+primary = "pink"
+accent = "pink"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Passa al tema chiaro"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+primary = "pink"
+accent = "pink"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Passa al tema scuro"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+primary = "pink"
+accent = "pink"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Passa al tema di sistema"
+
+[project.markdown_extensions.abbr]
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.def_list]
+[project.markdown_extensions.footnotes]
+[project.markdown_extensions.md_in_html]
+[project.markdown_extensions.toc]
+permalink = true
+[project.markdown_extensions.pymdownx.arithmatex]
+generic = true
+[project.markdown_extensions.pymdownx.betterem]
+smart_enable = "all"
+[project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.emoji]
+emoji_generator = "zensical.extensions.emoji.to_svg"
+emoji_index = "zensical.extensions.emoji.twemoji"
+[project.markdown_extensions.pymdownx.highlight]
+[project.markdown_extensions.pymdownx.inlinehilite]
+[project.markdown_extensions.pymdownx.keys]
+[project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.smartsymbols]
+[project.markdown_extensions.pymdownx.superfences]
+[project.markdown_extensions.pymdownx.tabbed]
+alternate_style = true
+[project.markdown_extensions.pymdownx.tasklist]
+custom_checkbox = true
+[project.markdown_extensions.pymdownx.tilde]
+[project.markdown_extensions.pymdownx.snippets]
+
+
+[project.extra]
+social_default_image = "assets/images/social.png"
+author_default_image = "assets/images/tealaforgia.png"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/mastodon"
+link = "https://mastodon.social/@tealaforgia"
+name = "Mastodon"
+
+[[project.extra.social]]
+icon = "simple/matrix"
+link = "https://matrix.to/#/@tea:laforgia.xyz"
+name = "Matrix"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/telegram"
+link = "https://t.me/tealaforgia"
+name = "Telegram"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/instagram"
+link = "https://www.instagram.com/tealaforgia/"
+name = "Instagram"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/x-twitter"
+link = "https://x.com/tealaforgia"
+name = "X"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/facebook"
+link = "https://www.facebook.com/tealaforgia"
+name = "Facebook"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/youtube"
+link = "https://www.youtube.com/channel/UCG6sKb2KG6KSlP6Z7H1uiyw"
+name = "Youtube"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/tealaforgia"
+name = "GitHub"

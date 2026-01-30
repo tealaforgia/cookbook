@@ -1,0 +1,152 @@
+{% extends "base.html" %}
+
+{% block announce %}
+  Questo ricettario è in costruzione. La maggior parte dei link non funzionano.
+{% endblock %}
+
+{% block extrahead %}
+  {{ super() }}
+
+  {% set base_url_clean = config.site_url | replace("/$", "") %}
+  
+  {# URL della pagina corrente #}
+  {% if page and page.url %}
+    {% set page_url = base_url_clean ~ "/" ~ page.url %}
+  {% else %}
+    {% set page_url = base_url_clean ~ "/" %}
+  {% endif %}
+
+  {# Identificazione tipo di contenuto #}
+  {% set is_article = true if (page and page.meta and page.meta.date) else false %}
+
+  {# Titolo e Descrizione #}
+  {% set page_title = (page.title | striptags ~ " - " ~ config.site_name) if (page and page.title) else config.site_name %}
+  {% set page_description = page.meta.description if (page and page.meta and page.meta.description) else config.site_description %}
+
+  {# Gestione Locale #}
+  {% set og_locale = page.meta.locale if (page and page.meta and page.meta.locale) else "it_IT" %}
+
+  {# Gestione Immagini #}
+  {% set has_page_image = false %}
+  {% set social_image = config.extra.social_default_image %}
+  
+  {% if page and page.meta and page.meta.image %}
+    {% set social_image = page.meta.image %}
+    {% set has_page_image = true %}
+  {% endif %}
+
+  {% set image_url = base_url_clean ~ "/" ~ social_image | replace("//", "/") %}
+  {% set author_image_url = base_url_clean ~ "/" ~ config.extra.author_default_image | replace("//", "/") %}
+
+
+  <script defer src="https://an.laforgia.xyz/an.js" data-website-id="37c26493-1679-42d3-9335-0079cb55f057"></script>
+  <meta name="description" content="{{ page_description }}">
+  <meta name="author" content="{{ config.site_author }}">
+  <link rel="canonical" href="{{ page_url }}">
+  {% if has_page_image %}
+    <meta name="robots" content="max-image-preview:large">
+  {% endif %}
+  {% if page and page.meta and page.meta.robots %}
+    <meta name="robots" content="{{ page.meta.robots }}">
+  {% endif %}
+
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-title" content="Tea La Forgia" />
+
+  <meta property="og:type" content="{{ 'article' if is_article else 'website' }}">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:description" content="{{ page_description }}">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:image" content="{{ image_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:alt" content="{{ page_description }}">
+  <meta property="og:locale" content="{{ og_locale }}">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+
+  {% if is_article %}
+    <meta property="article:published_time" content="{{ page.meta.date }}">
+    {% if page.meta.updated %}
+      <meta property="article:modified_time" content="{{ page.meta.updated }}">
+    {% endif %}
+    <meta property="article:author" content="{{ config.site_author }}">
+    <meta property="article:author:image" content="{{ author_image_url }}">
+  {% endif %}
+
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="{{ page_title }}">
+  <meta property="twitter:description" content="{{ page_description }}">
+  <meta property="twitter:image" content="{{ image_url }}">
+  <meta property="twitter:image:alt" content="{{ page_description }}">
+  <meta property="twitter:url" content="{{ page_url }}">
+  <meta name="twitter:site" content="@tealaforgia">
+  <meta name="twitter:creator" content="@tealaforgia">
+  <meta name="fediverse:creator" content="@tealaforgia@mastodon.social">
+
+  {% if page and page.meta and page.meta.alternate %}
+    {% for alt in page.meta.alternate %}
+      <link rel="alternate user-defined" hreflang="{{ alt.lang }}" href="{{ base_url_clean }}/{{ alt.link }}">
+    {% endfor %}
+  {% endif %}
+
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+
+  {% if page.meta.comments %}
+    
+    <script>
+      (function () {
+        // Prevenzione doppio caricamento dello script dei commenti
+        if (!window.__comentarioLoaded) {
+          window.__comentarioLoaded = true;
+          const s = document.createElement("script");
+          s.src = "https://commento.laforgia.xyz/comentario.js";
+          s.defer = true;
+          document.head.appendChild(s);
+        }
+      })();
+    </script>
+    
+    <comentario-comments no-fonts="true"></comentario-comments>
+    <noscript><br>Abilita JavaScript per vedere i commenti</noscript>
+
+    <script>
+      (function () {
+        function updateComentarioTheme() {
+          const body = document.body;
+          const comentario = document.querySelector("comentario-comments");
+          if (!comentario) return;
+
+          const scheme = body.getAttribute("data-md-color-scheme");
+          const theme = scheme === "slate" ? "dark" : "light";
+
+          if (comentario.getAttribute("theme") !== theme) {
+            comentario.setAttribute("theme", theme);
+          }
+        }
+
+        // Esegui subito e dopo il caricamento del contenuto (SPA)
+        setTimeout(updateComentarioTheme, 50);
+        document.addEventListener("md-content-updated", () => {
+          setTimeout(updateComentarioTheme, 50);
+        });
+
+        // Observer per cambio tema dinamico
+        if (!window.__comentarioThemeObserver) {
+          window.__comentarioThemeObserver = new MutationObserver(() => {
+            updateComentarioTheme();
+          });
+          
+          window.__comentarioThemeObserver.observe(document.body, {
+            attributes: true,
+            attributeFilter: ["data-md-color-scheme"]
+          });
+        }
+      })();
+    </script>
+  {% endif %}
+{% endblock %}

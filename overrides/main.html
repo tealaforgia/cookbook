@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block announce %}
-  Questo ricettario è in costruzione. La maggior parte dei link non funzionano.
+  Questo ricettario è in costruzione. La maggior parte delle ricette sono scritte nel vecchio formato e potrebbero avere un aspetto poco leggibile. Se venivi da un link e cercavi una ricetta specifica, cercala dal menù a sinistra, i vecchi link non funzionano più.
 {% endblock %}
 
 {% block extrahead %}
@@ -19,9 +19,8 @@
   {# Identificazione tipo di contenuto #}
   {% set is_article = true if (page and page.meta and page.meta.date) else false %}
 
-  {# Titolo e Descrizione #}
+  {# Titolo #}
   {% set page_title = (page.title | striptags ~ " - " ~ config.site_name) if (page and page.title) else config.site_name %}
-  {% set page_description = page.meta.description if (page and page.meta and page.meta.description) else config.site_description %}
 
   {# Gestione Locale #}
   {% set og_locale = page.meta.locale if (page and page.meta and page.meta.locale) else "it_IT" %}
@@ -38,11 +37,8 @@
   {% set image_url = base_url_clean ~ "/" ~ social_image | replace("//", "/") %}
   {% set author_image_url = base_url_clean ~ "/" ~ config.extra.author_default_image | replace("//", "/") %}
 
-
   <script defer src="https://an.laforgia.xyz/an.js" data-website-id="37c26493-1679-42d3-9335-0079cb55f057"></script>
-  <meta name="description" content="{{ page_description }}">
   <meta name="author" content="{{ config.site_author }}">
-  <link rel="canonical" href="{{ page_url }}">
   {% if has_page_image %}
     <meta name="robots" content="max-image-preview:large">
   {% endif %}
@@ -56,13 +52,11 @@
 
   <meta property="og:type" content="{{ 'article' if is_article else 'website' }}">
   <meta property="og:title" content="{{ page_title }}">
-  <meta property="og:description" content="{{ page_description }}">
   <meta property="og:url" content="{{ page_url }}">
   <meta property="og:image" content="{{ image_url }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:type" content="image/png">
-  <meta property="og:image:alt" content="{{ page_description }}">
   <meta property="og:locale" content="{{ og_locale }}">
   <meta property="og:site_name" content="{{ config.site_name }}">
 
@@ -77,19 +71,11 @@
 
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:title" content="{{ page_title }}">
-  <meta property="twitter:description" content="{{ page_description }}">
   <meta property="twitter:image" content="{{ image_url }}">
-  <meta property="twitter:image:alt" content="{{ page_description }}">
   <meta property="twitter:url" content="{{ page_url }}">
   <meta name="twitter:site" content="@tealaforgia">
   <meta name="twitter:creator" content="@tealaforgia">
   <meta name="fediverse:creator" content="@tealaforgia@mastodon.social">
-
-  {% if page and page.meta and page.meta.alternate %}
-    {% for alt in page.meta.alternate %}
-      <link rel="alternate user-defined" hreflang="{{ alt.lang }}" href="{{ base_url_clean }}/{{ alt.link }}">
-    {% endfor %}
-  {% endif %}
 
 {% endblock %}
 

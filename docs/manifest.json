@@ -1,21 +1,36 @@
 {
-  "name": "Tea La Forgia",
-  "short_name": "Tea La Forgia",
+  "id": "ricettario.tea.laforgia.xyz",
+  "name": "Ricettario - Tea La Forgia",
+  "short_name": "Ricettario",
+  "description": "La raccolta delle mie ricette preferite, sempre a portata di mano.",
+  "orientation": "any",
   "lang": "it",
-  "start_url": "/",
+  "start_url": "/?source=pwa",
   "scope": "/",
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "id": "ricettario.tea.laforgia.xyz"
+    }
+  ],
   "icons": [
     {
       "src": "assets/images/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     },
     {
       "src": "assets/images/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/images/web-app-manifest-any-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     }
   ],
   "theme_color": "#000000",

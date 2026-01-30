@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: 
-Sitemap: https://www.laforgia.xyz/sitemap.xml
+Allow: /
+
+Sitemap: https://cookbook.laforgia.xyz/sitemap.xml

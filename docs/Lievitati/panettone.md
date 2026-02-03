@@ -206,11 +206,6 @@ hide:
     - [ ] Pirlare e inserire nei pirottini.
     - [ ] Lasciare lievitare fino a che la parte centrale raggiunge il bordo.
     - [ ] Incidere a croce con una lametta o un coltello molto affilato e inserire una noce di burro al centro.
-    - [ ] Eseguire la spezzatura pesando il `10%` in più.
-    - [ ] Lasciare riposare per `40min`.
-    - [ ] Pirlare e inserire nei pirottini.
-    - [ ] Lasciare lievitare fino a che la parte centrale raggiunge il bordo.
-    - [ ] Incidere a croce con una lametta o un coltello molto affilato e inserire una noce di burro al centro.
 
 ---
 

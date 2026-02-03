@@ -1,146 +1,243 @@
 ---
 title: Pizza
-description: 
-published: true
-date: 2025-01-09T09:50:36.265Z
-tags: lievitati, pizza
-editor: markdown
-dateCreated: 2022-12-28T00:34:58.892Z
+date: 2025-01-09
+tags:
+  - Lievitato
+  - Pizza
+hide:
+  - toc
 ---
 
-# Impasto diretto
+??? abstract inline end "Info"
 
-## Ingredienti
+    | | |
+    | :--: | --- |
+    | :lucide-component:{ title="Numero di pizze" } | `6 pizze` |
+    | :lucide-weight-tilde:{ title="Peso" } | `280g` |
+    | :lucide-clock-fading:{ title="Tempo di preparazione" } | `≈30min` |
+    | :lucide-loader-pinwheel:{ title="Tempo di lievitazione" } | `≈24h` |
+    | :lucide-flame:{ title="Tempo di cottura" } | `≈100s` |
+    | :lucide-thermometer:{ title="Temperatura" } | `≈450°C` |
+    | :lucide-fan:{ title="Forno" } | `Statico` |
 
-> Per `6` pizze da `≈280g`
+# Pizza
 
-* [ ] `1000g···················` | Farina Tipo 0 W270/300
-* [ ] `700g····················` | Acqua
-* [ ] `20g·····················` | Sale
-* [ ] `≈3-4g···················` | Lievito di birra
-* [ ] `························` | Olio di oliva
-* [ ] `························` | Semola di grano duro
+## :lucide-shopping-basket: Ingredienti
 
-<details><summary>Proporzioni</summary>
+=== "Impasto diretto"
 
-**Farina** (`g`) = `n`
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: `1kg` | Farina Tipo 0 W270/300 |
+    | :fontawesome-regular-square: `700g` | Acqua |
+    | :fontawesome-regular-square: `20g` | Sale |
+    | :fontawesome-regular-square: `5g` | Lievito di birra[^1] |
+    | :fontawesome-regular-square: | Olio neutro |
+    | :fontawesome-regular-square: | Semola di grano duro |
 
-* [ ] `n×0.7··················` | Acqua
-* [ ] `n×0.02·················` | Sale
-* [ ] `n×0.003-0.004··········` | Lievito di birra
+=== "Biga"
 
-</details>
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: `1kg` | Farina Tipo 0 W380/400 |
+    | :fontawesome-regular-square: `800g` | Acqua |
+    | :fontawesome-regular-square: `20g` | Sale |
+    | :fontawesome-regular-square: `10g` | Lievito di birra[^1] |
+    | :fontawesome-regular-square: `10g` | Malto diastasico |
+    | :fontawesome-regular-square: | Olio neutro |
+    | :fontawesome-regular-square: | Semola di grano duro |
 
-## Preparazione
+???- example "Proporzioni"
 
-* Versare nella planetaria acqua per raggiungere il `65%` di idratazione, il lievito e il sale, quindi miscelare.
-* Aggiungere tutta la farina e impastare per far incordare bene l'impasto.
-* Aggiungere la restante acqua.
-* Dare qualche piega all'impasto, e lasciarlo riposare, ricoperto da un velo d'olio, per `≈1h` a temperatura ambiente e `≈16h` in frigo.
-* Uscire l'impasto dal frigo, lasciarlo riposare finche sarà ben lievitato, e procedere allo staglio dei panetti. Pirlare i panetti e lasciarli riposare `≈4h`, finché non saranno lievitati.
-* Stendere i panetti sulla semola, rimuovere la semola in eccesso e condirli.
+    **Farina** (g) = n
 
-## Cottura
+    === "Impasto diretto"
+        | Quantità | Ingrediente |
+        | :-- | :-- |
+        | `n×0.7` | Acqua |
+        | `n×0.02` | Sale |
+        | `n×0.005` | Lievito di birra |
 
-Infornare a `≈425°C` per `≈100sec`.
+    === "Biga"
+        | Quantità | Ingrediente |
+        | :-- | :-- |
+        | `n×0.8` | Acqua |
+        | `n×0.02` | Sale |
+        | `n×0.01` | Lievito di birra |
+        | `n×0.01` | Malto diastasico |
 
-# Biga
+---
 
-## Ingredienti
+## :lucide-chef-hat: Preparazione
 
-> Per `6` pizze da `≈280-300g`
+=== "Impasto diretto"
 
-* [ ] `1000g···················` | Farina Tipo 0 W380/400
-* [ ] `800g····················` | Acqua
-* [ ] `20g·····················` | Sale
-* [ ] `≈10g····················` | Lievito di birra
-* [ ] `10g·····················` | Malto diastasico
-* [ ] `························` | Olio di oliva
-* [ ] `························` | Semola di grano duro
+    - [ ] Versare nella planetaria acqua per raggiungere il `65%` di idratazione, il lievito e il sale, quindi miscelare.
+    - [ ] Aggiungere tutta la farina e impastare per far incordare bene l'impasto.
+    - [ ] Aggiungere la restante acqua.
+    - [ ] Dare qualche piega all'impasto, e lasciarlo lievitare, ricoperto da un velo d'olio, `≈20h` in frigo.
+    - [ ] Uscire l'impasto dal frigo e procedere allo staglio dei panetti. Pirlare i panetti e lasciarli riposare `≈2-4h`, in base alla temperatura ambiente, finché non saranno lievitati.
+    - [ ] Stendere i panetti sulla semola, rimuovere la semola in eccesso e condirli.
 
-<details><summary>Proporzioni</summary>
+=== "Biga"
 
-**Farina** (`g`) = `n`
+    - [ ] Versare in una teglia larga tutta la farina, pesare l'acqua per raggiungere il `45%` di idratazione e sciogliere `≈10g` di lievito. Versare l'acqua nella farina e mischiare senza impastare in modo che rimangano tanti piccoli pezzi di impasto asciutti.
+    - [ ] Lasciare fermentare a temperatura ambiente per `≈16h`.
+    - [ ] Pesare l'acqua per arrivare all'`80%` di idratazione e sciogliere il sale.
+    - [ ] Mettere la biga nella planetaria, aggiungere il malto diastasico, l'acqua, quindi far incordare. Lasciare lievitare, coperto da un velo di olio, per `≈1h`.
+    - [ ] Stagliare e pirlare i panetti, quindi lasciare riposare per `≈2-4h`, in base alla temperatura ambiente, finche non saranno lievitati.
+    - [ ] Stendere i panetti sulla semola, rimuovere la semola in eccesso e condirli.
 
-* [ ] `n×0.8··················` | Acqua
-* [ ] `n×0.02·················` | Sale
-* [ ] `n×0.01·················` | Lievito di birra
-* [ ] `n×0.01·················` | Malto diastasico
+---
 
-</details>
+## :lucide-heater: Cottura
 
-## Preparazione
+Cuocere in forno statico preriscaldato a `≈450°C` per `≈100sec`.
 
-* Versare in una teglia larga tutta la farina, pesare l'acqua per raggiungere il `45%` di idratazione e sciogliere `≈10g` di lievito. Versare l'acqua nella farina e mischiare senza impastare in modo che rimangano tanti piccoli pezzi di impasto asciutti.
-* Lasciare fermentare a temperatura ambiente per `≈16h`.
-* Pesare l'acqua per arrivare all'`80%` di idratazione e sciogliere il sale.
-* Mettere la biga nella planetaria, aggiungere il malto diastasico l'acqua, quindi far incordare. Lasciare riposare, coperto da un velo di olio, per `≈1h`.
-* Stagliare e lasciare riposare i panetti, coperti da un velo d'olio, per `≈2h`, finche saranno lievitati.
-* Stendere i panetti sulla semola, rimuovere la semola in eccesso e condirli.
+---
 
-## Cottura
+## :lucide-pizza: Condimenti
 
-Infornare a `≈425°C` per `≈100sec`.
+=== "Margherita"
 
-# Condimenti
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Pomodoro |
+    | :fontawesome-regular-square: | Fior di latte[^2] |
+    | :fontawesome-regular-square: | Pecorino Romano[^3] |
+    | :fontawesome-regular-square: | Olio di oliva |
+    | :fontawesome-regular-square: `a crudo` | Basilico[^4] |
 
-## Margherita
+=== "Amatriciana"
 
-* [ ] `························` | Pomodoro
-* [ ] `························` | Fior di latte (bufala)
-* [ ] `························` | Pecorino romano (parmigiano reggiano)
-* [ ] `························` | Olio di oliva
-* [ ] `························` | Basilico (origano)
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Pomodoro |
+    | :fontawesome-regular-square: | Fior di latte[^2] |
+    | :fontawesome-regular-square: | Pecorino di Amatrice spezzettato[^5] |
+    | :fontawesome-regular-square: | Guanciale a fettine saltato in padella |
+    | :fontawesome-regular-square: | Olio di oliva |
+    | :fontawesome-regular-square: `a crudo` | Basilico[^4] |
 
-## Amatriciana
+=== "'Nduja e burrata"
 
-* [ ] `························` | Pomodoro
-* [ ] `························` | Fior di latte (bufala)
-* [ ] `························` | Pecorino di amatrice (pecorino romano) [grattuggiato a scaglie grosse o spezzettato a mano]
-* [ ] `························` | Guanciale tagliato a fettine
-* [ ] `························` | Olio di oliva
-* [ ] `························` | Basilico (origano)
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Pomodoro |
+    | :fontawesome-regular-square: | Mozzarella |
+    | :fontawesome-regular-square: | 'Nduja |
+    | :fontawesome-regular-square: | Granella di nocciole |
+    | :fontawesome-regular-square: | Datterino giallo |
+    | :fontawesome-regular-square: | Burrata |
 
-## Fiocco
+=== "Tartufo"
 
-* [ ] `························` | Panna [addensata con amido]
-* [ ] `························` | Fior di latte
-* [ ] `························` | Prosciutto cotto affumicato
-* [ ] `························` | Fiocchi di patate [patate schiacciate con lo schiacciapatate direttamente sulla pizza]
-* [ ] `························` | Pecorino romano (parmigiano reggiano)
-* [ ] `························` | Pepe
-* [ ] `························` | Noce moscata
-* [ ] `························` | Olio di oliva
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Pomodoro |
+    | :fontawesome-regular-square: | Bufala |
+    | :fontawesome-regular-square: | Porcini trifolati |
+    | :fontawesome-regular-square: | Salsiccia |
+    | :fontawesome-regular-square: | Crema tartufata |
+    | :fontawesome-regular-square: `a crudo` | Rucola |
 
-## Parmigiana scomposta
+=== "Norma"
 
-* [ ] `························` | Crema di melanzane
-* [ ] `························` | Provola affumicata
-* [ ] `a crudo·················` | Chips di melanzane [melanzane infarinate e fritte a `160°C`, tagliate molto sottili]
-* [ ] `a crudo·················` | Crema di formaggio
-* [ ] `a crudo·················` | Pomodori confit
-* [ ] `a crudo·················` | Basilico fritto
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Pomodoro |
+    | :fontawesome-regular-square: | Fior di latte[^2] |
+    | :fontawesome-regular-square: | Melanzane a funghetto |
+    | :fontawesome-regular-square: `a crudo` | Scaglie di cacioricotta |
+    | :fontawesome-regular-square: `a crudo` | [Emulsione di basilico](../Preparazioni-di-base/emulsione-basilico/#preparazione){ data-preview } |
 
-### Crema di formaggio
+=== "Guanciale e friggitelli"
 
-Far sciogliere `50g` di burro e aggiungere `20g` di farina 00. Fare un roux biondo. Aggiungere `75g` di panna, `200g` di latte. far addensare ed aggiungere `300g` di parmigiano. Mescolare con la frusta per `10min` per far addensare. Frullare la crema.
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Pomodoro |
+    | :fontawesome-regular-square: | Bufala |
+    | :fontawesome-regular-square: | Guanciale a fettine saltato in padella |
+    | :fontawesome-regular-square: | Peperoni friggitelli fritti |
+    | :fontawesome-regular-square: `a crudo` | Basilico |
 
-### Crema di melanzane
+=== "Margherita sbagliata"
 
-Arrostire `2` melanzane per `≈35min` a `180°C`. Estrarre la polpa e frullarla insieme a parmigiano, pepe, sale ed olio.
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Salsa di datterino giallo |
+    | :fontawesome-regular-square: | Fior di latte[^2] |
+    | :fontawesome-regular-square: | [Datterino giallo confit](../Preparazioni-di-base/pomodoro-confit/#preparazione){ data-preview } |
+    | :fontawesome-regular-square: `a crudo` | [Emulsione di basilico](../Preparazioni-di-base/emulsione-basilico/#preparazione){ data-preview } |
+    | :fontawesome-regular-square: `a crudo` | Basilico[^4] |
 
-## Vellutata viola
+=== "Fiocco"
 
-* [ ] `························` | Vellutata di patate viola [patate viola, porro, brodo vegetale, pepe, sale, olio]
-* [ ] `························` | Fior di latte
-* [ ] `························` | Pecorino romano
-* [ ] `························` | Pancetta tesa
-* [ ] `························` | Olio di oliva
-* [ ] `························` | Basilico
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Crema alla panna[^6] |
+    | :fontawesome-regular-square: | Fior di latte |
+    | :fontawesome-regular-square: | Prosciutto cotto affumicato |
+    | :fontawesome-regular-square: | Fiocchi di patate[^7] |
+    | :fontawesome-regular-square: | Pecorino Romano[^3] |
+    | :fontawesome-regular-square: | Pepe |
+    | :fontawesome-regular-square: | Noce moscata |
+    | :fontawesome-regular-square: | Olio di oliva |
 
-## Genovese
+=== "Parmigiana scomposta"
 
-* [ ] `························` | Carne alla genovese
-* [ ] `························` | Provola
-* [ ] `························` | Pecorino romano
-* [ ] `························` | Olio di oliva
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Crema di melanzane[^8] |
+    | :fontawesome-regular-square: | Provola affumicata |
+    | :fontawesome-regular-square: `a crudo` | Chips di melanzane[^9] |
+    | :fontawesome-regular-square: `a crudo` | Crema di formaggio[^10] |
+    | :fontawesome-regular-square: `a crudo` | [Pomodoro confit](../Preparazioni-di-base/pomodoro-confit/#preparazione){ data-preview } |
+    | :fontawesome-regular-square: `a crudo` | Basilico fritto |
+
+=== "Vellutata viola"
+
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Vellutata di patate viola[^11] |
+    | :fontawesome-regular-square: | Fior di latte |
+    | :fontawesome-regular-square: | Pecorino Romano |
+    | :fontawesome-regular-square: | Pancetta tesa |
+    | :fontawesome-regular-square: | Olio di oliva |
+    | :fontawesome-regular-square: | Basilico |
+
+=== "Grana, pepe e fantasia"
+
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Fonduta di Grana Padano 12 mesi[^12] |
+    | :fontawesome-regular-square: | Scamorza affumicata |
+    | :fontawesome-regular-square: `in uscita sul cornicione`| Pecorino Romano |
+    | :fontawesome-regular-square: `a crudo`| Tuorlo d'uovo[^13] |
+    | :fontawesome-regular-square: `a crudo` | Scaglie di guanciale saltato in padella |
+    | :fontawesome-regular-square: `a crudo`| Grana Padano 24 mesi spezzettato  |
+    | :fontawesome-regular-square: `a crudo`| Zest di lime |
+    | :fontawesome-regular-square: `a crudo`| Pepe |
+
+=== "Genovese"
+
+    | Quantità | Ingrediente |
+    | :-- | :-- |
+    | :fontawesome-regular-square: | Carne alla genovese |
+    | :fontawesome-regular-square: | Provola |
+    | :fontawesome-regular-square: | Pecorino romano |
+    | :fontawesome-regular-square: | Olio di oliva |
+
+[^1]: Lievito madre disidratato: `50g`, scalare la dose dalla farina; Lievito naturale: `50g`
+[^2]: Bufala
+[^3]: Parmigiano Reggiano
+[^4]: Origano
+[^5]: Pecorino romano
+[^6]: Aggiungere amido di mais alla panna, quindi riscaldare fino ad addensamento.
+[^7]: Patate bollite schiacciate con lo schiacciapatate direttamente sulla pizza.
+[^8]: Arrostire `2` melanzane per `≈35min` a `180°C`. Eliminare la buccia e frullarla insieme a parmigiano, pepe, sale e olio.
+[^9]: Melanzane tagliate molto sottili, infarinate e fritte a `160°C`.
+[^10]: Far sciogliere `50g` di burro e aggiungere `20g` di farina, quindu fare un roux biondo.<br>Aggiungere `75g` di panna e `200g` di latte e far addensare.<br>Aggiungere `300g` di parmigiano e frullare con il frullatore a immersione.
+[^11]: Patate viola, porro, brodo vegetale, pepe, sale, olio.
+[^12]: Aggiungere a `250g` di panna bollente `75g` di Grana Padano e frullare con il frullatore a immersione.
+[^12]: Cuocere a temperatura controllata a `62°C` per `15min`.

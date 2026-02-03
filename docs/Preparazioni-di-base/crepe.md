@@ -11,7 +11,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-component:{ title="Numero di crêpe" } | `8` |
 
 # Crêpe

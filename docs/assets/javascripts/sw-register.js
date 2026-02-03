@@ -99,14 +99,11 @@ function openIOSModal() {
   }, 10);
 }
 
-// Funzione per chiudere (esposta globalmente per l'onclick nell'HTML iniettato)
 window.closeIOSModal = function(e, force = false) {
-  // Chiudi solo se si clicca sull'overlay (sfondo scuro) o sul bottone, non sul contenuto
   if (force || e.target.classList.contains('ios-modal-overlay')) {
     const overlay = document.querySelector('.ios-modal-overlay');
     if (overlay) {
       overlay.classList.remove('active');
-      // Rimuoviamo dal DOM dopo l'animazione per pulizia
       setTimeout(() => overlay.remove(), 300);
     }
   }
@@ -126,13 +123,13 @@ function updateInstallButton() {
     return;
   }
 
-if (isIOS()) {
+  if (isIOS()) {
     setButtonState(btn, {
       text: "Installa su iOS",
       disabled: false,
       primary: true,
       action: () => {
-         openIOSModal(); // <--- Qui chiamiamo la nuova funzione
+         openIOSModal();
       }
     });
     return;

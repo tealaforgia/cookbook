@@ -11,7 +11,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-weight-tilde:{ title="Peso" } | `1.2kg` |
     | :lucide-clock-fading:{ title="Tempo di preparazione" } | `20min` |
 

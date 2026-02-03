@@ -48,15 +48,9 @@ search:
 *   [Pizzaiola](https://www.youtube.com/watch?v=RGGr_XsrX1M)
 *   [Polpo alla griglia con patate](https://www.youtube.com/watch?v=0scfos67O9k)
 *   [Salmone scottato in crosta di sesamo e Tartare di salmone al Tabasco](https://www.youtube.com/watch?v=rKgmNw5V3vY)
+*   [Gyudon](https://nomadette.com/beef-gyudon-with-raw-yolk/)
 
 ##   Piatti unici
 
 *   [Vellutata di funghi](https://www.youtube.com/watch?v=vc38BTHrXjU)
 *   [Vellutata di zucca](https://www.youtube.com/watch?v=6nkqHOT5lwk)
-
-# Ricette da convertire
-
-*   Dolci
-*   Lievitati
-*   Salse
-*   Secondi

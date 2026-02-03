@@ -11,7 +11,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-flame:{ title="Tempo di cottura" } | `2h` |
 
 # Brodo vegetale

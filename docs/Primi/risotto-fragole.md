@@ -17,7 +17,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-users:{ title="Numero di persone" } | `3-4` |
     | :lucide-clock-fading:{ title="Tempo di preparazione" } | `1h` |
 

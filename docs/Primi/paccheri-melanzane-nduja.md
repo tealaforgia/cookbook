@@ -15,7 +15,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-clock-fading:{ title="Tempo di preparazione" } | `40min` |
 
 # Paccheri con melanzane e 'Nduja

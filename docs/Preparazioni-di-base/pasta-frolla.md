@@ -11,7 +11,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-weight-tilde:{ title="Peso" } | `1kg` |
     | :lucide-fan:{ title="Forno" } | `Statico` |
 

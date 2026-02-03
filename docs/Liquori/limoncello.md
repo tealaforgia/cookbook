@@ -12,7 +12,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-clock-fading:{ title="Tempo di preparazione" } | `1-3 giorni` |
 
 # Limoncello

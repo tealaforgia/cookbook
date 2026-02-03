@@ -19,7 +19,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-clock-fading:{ title="Tempo di preparazione" } | `1h` |
 
 # Baba Ghanoush [بابا غنوج] e Mutabbal [المتبل]

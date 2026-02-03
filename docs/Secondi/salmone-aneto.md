@@ -1,21 +1,34 @@
 ---
 title: Salmone all'aneto
-description: 
-published: true
-date: 2022-06-11T16:14:28.838Z
-tags: secondi, salmone, aneto
-editor: markdown
-dateCreated: 2022-06-11T16:14:28.838Z
+date: 2022-06-11
+tags:
+  - Secondo
+  - Salmone
+  - Aneto
+hide:
+  - toc
 ---
 
-## Ingredienti
+??? abstract inline end "Info"
 
-* [ ] `························` | Salmone in filetti
-* [ ] `························` | Aneto (Finocchietto selvatico)
+    | | |
+    | :--: | --- |
+    | :lucide-clock-fading:{ title="Tempo di preparazione" } | `15min` |
 
-## Preparazione
+# Salmone all'aneto
 
-* Tritare finemente l'aneto.
-* Impanare il salmone asciutto nell'aneto.
-* Mettere nella padella molto calda il salmone e couciere per `≈6min` a fuoco basso, poi girare i filetti di salmone e cuociere per altri `≈6min`.
-* Girare i filetti dalla parte della pelle e cuociere per `≈1min`.
+## :lucide-shopping-basket: Ingredienti
+
+| Quantità | Ingrediente |
+| :-- | :-- |
+| :fontawesome-regular-square: | Filetto di salmone |
+| :fontawesome-regular-square: | Aneto[^1] |
+
+## :lucide-chef-hat: Preparazione
+
+- [ ] Tritare finemente l'aneto.
+- [ ] Impanare il salmone ben asciutto nell'aneto.
+- [ ] Mettere nella padella molto calda il salmone dalla parte della pelle e couciere per `≈5min` a fuoco basso, poi girare i filetti di salmone, salare e cuociere per altri `≈4min`.
+- [ ] Girare i filetti dalla parte della pelle e cuociere per `≈30s`.
+
+[^1]:  Finocchietto selvatico

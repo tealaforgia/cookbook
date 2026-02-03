@@ -12,7 +12,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-diameter:{ title="Diametro della teglia" } | `24cm` |
     | :lucide-heater:{ title="Tempo di cottura" } | `35min` |
     | :lucide-thermometer:{ title="Temperatura" } | `160°C` |

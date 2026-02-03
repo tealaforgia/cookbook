@@ -3,7 +3,7 @@
   "name": "Ricettario - Tea La Forgia",
   "short_name": "Ricettario",
   "description": "La raccolta delle mie ricette preferite, sempre a portata di mano.",
-  "orientation": "any",
+  "orientation": "natural",
   "lang": "it",
   "start_url": "/?source=pwa",
   "scope": "/",

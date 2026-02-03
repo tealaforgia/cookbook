@@ -14,7 +14,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-clock-fading:{ title="Tempo di preparazione" } | `30min` |
 
 # Pasta con asparagi e pancetta

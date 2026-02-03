@@ -1,32 +1,54 @@
 ---
 title: Seppie gratinate
-description: 
-published: true
-date: 2022-06-11T16:15:30.470Z
-tags: secondi, olive, pangrattato, capperi, seppia, salsa di soia
-editor: markdown
-dateCreated: 2022-06-11T16:15:30.470Z
+date: 2022-06-11
+tags:
+  - Secondo
+  - Seppia
+  - Pangrattato
+  - Olive
+  - Capperi
+  - Salsa si soia
+hide:
+  - toc
 ---
 
-## Ingredienti
+??? abstract inline end "Info"
 
-* [ ] `························` | Seppie
-* [ ] `························` | Capperi
-* [ ] `························` | Olive
-* [ ] `························` | Aglio
-* [ ] `························` | Salsa di soia (Sale)
-* [ ] `························` | Prezzemolo
-* [ ] `························` | Pangrattato
-* [ ] `························` | Pepe
+    | | |
+    | :--: | --- |
+    | :lucide-clock-fading:{ title="Tempo di preparazione" } | `20min` |
+    | :lucide-heater:{ title="Tempo di cottura" } | `10-15min` |
+    | :lucide-thermometer:{ title="Temperatura" } | `220°C` |
+    | :lucide-fan:{ title="Forno" } | `Ventilato` |
 
+# Seppie gratinate
 
-## Preparazione
+## :lucide-shopping-basket: Ingredienti
 
-* Pulire e tagliare le seppie a striscioline.
-* Far scaldare l'olio con l'aglio ed aggiungere le seppie, quindi condire con poca salsa di soia e pepe.
-* Aggiungere i capperi e le olive, far cuocere per `10min`.
-* Versare tutto in una teglia insieme al prezzemolo e spolverare di pangrattato.
+| Quantità | Ingrediente |
+| :-- | :-- |
+| :fontawesome-regular-square: | Seppie |
+| :fontawesome-regular-square: | Capperi |
+| :fontawesome-regular-square: | Olive |
+| :fontawesome-regular-square: | Salsa di soia[^1] |
+| :fontawesome-regular-square: | Pangrattato |
+| :fontawesome-regular-square: | Prezzemolo |
+| :fontawesome-regular-square: | Aglio |
+| :fontawesome-regular-square: | Olio di oliva |
+| :fontawesome-regular-square: | Sale |
+| :fontawesome-regular-square: | Pepe |
 
-## Cottura
+---
+
+## :lucide-chef-hat: Preparazione
+
+- [ ] Pulire e tagliare le seppie a striscioline.
+- [ ] Far scaldare l'olio con l'aglio ed aggiungere le seppie, quindi condire con poca salsa di soia e pepe.
+- [ ] Aggiungere i capperi e le olive, far cuocere per `10min`.
+- [ ] Versare tutto in una teglia insieme al prezzemolo e una spolverata di pangrattato.
+
+## :lucide-heater: Cottura
 
 Far dorare in forno ventilato a `220°C` con la funzione grill.
+
+[^1]: Sale

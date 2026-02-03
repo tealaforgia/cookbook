@@ -12,7 +12,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-glass-water:{ title="Tempo di ammollo" } | `36h` |
     | :lucide-flame:{ title="Tempo di cottura" } | `2h` |
 

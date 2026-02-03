@@ -13,7 +13,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-weight-tilde:{ title="Peso" } | `600g` |
 
 # Crema diplomatica

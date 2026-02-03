@@ -1,34 +1,55 @@
 ---
 title: Sgombro al cartoccio
-description: 
-published: true
-date: 2022-06-11T16:16:47.103Z
-tags: secondi, basilico, sgombro, cartoccio, cavolo, borraggine, limone, cipolla
-editor: markdown
-dateCreated: 2022-06-11T16:16:47.103Z
+date: 2022-06-11
+tags:
+  - Secondo
+  - Sgombro
+  - Cavolo
+  - Borraggine
+  - Limone
+  - Basilico
+  - Cipolla
+  - Cartoccio
+hide:
+  - toc
 ---
 
-## Ingredienti
+??? abstract inline end "Info"
 
-* [ ] `························` | Filetti di sgombro
-* [ ] `························` | Cavolo nero
-* [ ] `························` | Foglie di borraggine
-* [ ] `························` | Fiori di borraggine
-* [ ] `························` | Cipolla
-* [ ] `························` | Limone
-* [ ] `························` | Basilico
-* [ ] `························` | Aglio
-* [ ] `························` | Rosmarino
-* [ ] `························` | Salvia
-* [ ] `························` | Olio di oliva
-* [ ] `························` | Sale
-* [ ] `························` | Pepe
+    | | |
+    | :--: | --- |
+    | :lucide-clock-fading:{ title="Tempo di preparazione" } | `15min` |
+    | :lucide-heater:{ title="Tempo di cottura" } | `15-20min` |
+    | :lucide-thermometer:{ title="Temperatura" } | `180°C` |
+    | :lucide-fan:{ title="Forno" } | `Statico` |
 
-## Preparazione
+# Sgombro al cartoccio
 
-* Disporre sulla carta forno, nell'ordine, foglie di cavolo nero, foglie e fiori di borraggine, olio, sale, pepe, filetti di sgombro, aglio tritato, cipolla a rondelle, fettine di limone, basilico, rosmarino, salvia, olio, sale, pepe.
-* Chiudere il cartoccio.
+## :lucide-shopping-basket: Ingredienti
 
-## Cottura
+| Quantità | Ingrediente |
+| :-- | :-- |
+| :fontawesome-regular-square: | Filetti di sgombro |
+| :fontawesome-regular-square: | Cavolo nero |
+| :fontawesome-regular-square: | Foglie di borraggine |
+| :fontawesome-regular-square: | Fiori di borraggine |
+| :fontawesome-regular-square: | Cipolla |
+| :fontawesome-regular-square: | Limone |
+| :fontawesome-regular-square: | Basilico |
+| :fontawesome-regular-square: | Rosmarino |
+| :fontawesome-regular-square: | Salvia |
+| :fontawesome-regular-square: | Aglio |
+| :fontawesome-regular-square: | Olio di oliva |
+| :fontawesome-regular-square: | Sale |
+| :fontawesome-regular-square: | Pepe |
 
-Cuocere in forno preriscaldato non ventilato a `180°C` per `≈15-20min`.
+---
+
+## :lucide-chef-hat: Preparazione
+
+- [ ] Disporre sulla carta forno, nell'ordine, foglie di cavolo nero, foglie e fiori di borraggine, olio, sale, pepe, filetti di sgombro, aglio tritato, cipolla a rondelle, fettine di limone, basilico, rosmarino, salvia, olio, sale, pepe.
+- [ ] Chiudere il cartoccio.
+
+## :lucide-heater: Cottura
+
+Cuocere in forno preriscaldato statico a `180°C` per `≈15-20min`.

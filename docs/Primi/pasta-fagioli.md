@@ -13,7 +13,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-users:{ title="Numero di persone" } | `3-4` |
     | :lucide-glass-water:{ title="Tempo di ammollo" } | `8h` |
     | :lucide-flame:{ title="Tempo di cottura" } | `2h` |

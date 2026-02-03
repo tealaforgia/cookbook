@@ -10,7 +10,7 @@ hide:
 ??? abstract inline end "Info"
 
     | | |
-    |   :--: | --- |
+    | :--: | --- |
     | :lucide-users:{ title="Numero di persone" } | `3-4` |
     | :lucide-component:{ title="Numero di elementi" } | `8` |
     | :lucide-diameter:{ title="Diametro della teglia" } | `24cm` |
@@ -31,8 +31,8 @@ hide:
 | Quantità | Ingrediente |
 | :-- | :-- |
 | :fontawesome-regular-square: | Ingrediente senza dose |
-| :fontawesome-regular-square: `20g` | Ingrediente  [^1]|
-| :fontawesome-regular-square: `300g [≈3→Uova]` | [Ingrediente](#ingredienti){ data-preview } da preparare [^2] |
+| :fontawesome-regular-square: `20g` | Ingrediente[^1] |
+| :fontawesome-regular-square: `300g [≈3→Uova]` | [Ingrediente](#ingredienti){ data-preview } da preparare[^2] |
 | :fontawesome-regular-square: `50g [≈1]` | Uovo |
 | :fontawesome-regular-square: `32g [≈1]` | Albume |
 | :fontawesome-regular-square: `18g [≈1]` | Tuorlo |

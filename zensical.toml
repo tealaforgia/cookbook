@@ -33,7 +33,7 @@ features = [
     "content.footnote.tooltips",
     "content.code.copy",
     "content.code.annotate",
-    "content.tabs.link",
+    "content.tabs.link"
 ]
 
 [[project.theme.palette]]

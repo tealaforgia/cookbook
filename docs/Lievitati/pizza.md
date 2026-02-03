@@ -240,4 +240,4 @@ Cuocere in forno statico preriscaldato a `≈450°C` per `≈100sec`.
 [^10]: Far sciogliere `50g` di burro e aggiungere `20g` di farina, quindu fare un roux biondo.<br>Aggiungere `75g` di panna e `200g` di latte e far addensare.<br>Aggiungere `300g` di parmigiano e frullare con il frullatore a immersione.
 [^11]: Patate viola, porro, brodo vegetale, pepe, sale, olio.
 [^12]: Aggiungere a `250g` di panna bollente `75g` di Grana Padano e frullare con il frullatore a immersione.
-[^12]: Cuocere a temperatura controllata a `62°C` per `15min`.
+[^13]: Cuocere a bagnomaria fino a `63°C`.

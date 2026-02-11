@@ -35,7 +35,7 @@ hide:
 
     | Quantità | Ingrediente |
     | :-- | :-- |
-    | `n÷4` | Carne di manzo |
+    | `n÷3-n÷4` | Carne di manzo |
 
 ---
 

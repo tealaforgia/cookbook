@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script di build e deploy per Zensical
 
+set -e
 # ==========================================
 # CONFIGURAZIONE VARIABILI
 # ==========================================

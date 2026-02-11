@@ -33,10 +33,10 @@ hide:
 
 | Quantità | Ingrediente |
 | :-- | :-- |
-| :fontawesome-regular-square: `≈310g` | Straccetti di pasta all'uovo |
-| :fontawesome-regular-square: `≈250g` | Fagioli |
-| :fontawesome-regular-square: `≈50g` | Lardo |
-| :fontawesome-regular-square: `≈100g` | Pancetta affumicata cruda |
+| :fontawesome-regular-square: `≈300g` | Straccetti di pasta all'uovo |
+| :fontawesome-regular-square: `≈300g` | Fagioli |
+| :fontawesome-regular-square: `≈75g` | Lardo |
+| :fontawesome-regular-square: `≈150g` | Pancetta affumicata cruda |
 | :fontawesome-regular-square: `≈1` | Costa di sedano |
 | :fontawesome-regular-square: `≈0.5` | Carota |
 | :fontawesome-regular-square: `≈1` | Cipolla |
@@ -60,9 +60,9 @@ hide:
 
 ### Pasta e fagioli
 
-- [ ] Cuocere i fagioli, precedentemente ammollati per `≈8h`, in acqua per circa `≈1.5h`.
-- [ ] In una pentola fare il soffritto con abbondante olio di oliva, lardo, pancetta a listarelle piccole, aglio, cipolla, carota e sedano.
+- [ ] Cuocere i fagioli, precedentemente ammollati per `≈8h`, in acqua per `≈1h`, in base al tipo di fagioli.
+- [ ] In una pentola fare il soffritto con abbondante olio di oliva, lardo, pancetta a listarelle piccole, aglio tagliato a metà, cipolla, carota e sedano.
 - [ ] Al soffrotto aggiungere i fagioli, la patata tagliata in 4, il rosmarino, la salvia, l'alloro e l'acqua di cottura dei fagioli a coprire. Cuocere a fuoco lento per `≈45min`
-- [ ] Frullare `1/3` dei fagioli e le patate, quindi rimettere la crema nella pentola.
+- [ ] Frullare `1/3` dei fagioli e tutte le patate, quindi rimettere la crema nella pentola.
 - [ ] Cuocere nella stessa pentola la pasta e aggiustare di sale e pepe.
 - [ ] Impiattare e condire con un filo di olio a crudo.

@@ -38,3 +38,5 @@ hide:
 - [ ] Tritare cipolla, abbondante coriandolo, prezzemolo e aglio.
 - [ ] Frullare i ceci molto ben asciutti (è possibile anche lasciarli in un forno tiepido) e aggiungere ai ceci frullati le verdure precedentemente tagliate, il pepe, il cumino e il sale.
 - [ ] Fare delle piccole polpette a forma di cilindro e friggere in abbondante olio a `≈160°C`. Servire accompagnati da una salsa a piacere.
+
+![Falafel](falafel.avif)
